@@ -3,7 +3,7 @@ name: Create GCP Infrastructure
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 env:
