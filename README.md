@@ -36,7 +36,7 @@
   ![Service Account JSON](/assets/service-account-json-modified.jpg)
 
 - Add Github Secrets
-  - Go to repo that you forked from https://github.com/gcp-terraform-infra
+  - Go to repo that you forked from https://github.com/git-dev-eng/gcp-terraform-infra
   - Go to Actions & Click **I understand my workflows, go ahead & enable them**
   ![Update Workflow](/assets/understand-workflows.JPG)
   - Go to **Settings > Secrets**
