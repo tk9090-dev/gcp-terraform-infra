@@ -53,7 +53,7 @@
  ![Run Workflow](/assets/run-workflow-modified.jpg)
  - Once you run workflow you can see your Github Action Running like in below image
  ![Github Action Running](/assets/github-infra-deploy.JPG)
- - When this Action gets completed you can headover to [client repo](https://github.com/ayu004/deploy-springboot-on-appengine) to deploy your app on App Engine.
+ - When this Action gets completed you can headover to [client repo](https://github.com/git-dev-eng/deploy-springboot-on-appengine) to deploy your app on App Engine.
 
 
 ##### You can also **destroy** infrastructure created using below command
